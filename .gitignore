@@ -5,8 +5,13 @@
 cache/
 dataset/
 exp_output/
+pretrained
+dataset
 
 # checkpoint paths
 *.npz
 *.png
 *.log
+
+# JetBrains
+.idea
